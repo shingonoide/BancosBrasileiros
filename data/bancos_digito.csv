@@ -1,4 +1,4 @@
-"cod-banco","dígito","nome",""
+"cod-banco","dígito","nome"
 "001","9","BB",""
 "341","7",Itaú
 "237","2","Bradesco",""
@@ -25,7 +25,7 @@
 "087","6",""
 "637","0",""
 "077","9","INTER",""
-"85","0","VIACREDI",""
+"085","0","VIACREDI",""
 "755","2","BANK OF AMERICA",""
 "260","9","NUBANK",""
 "290","9","PAGSEGURO",""
@@ -35,7 +35,7 @@
 "403","9","CORA",""
 "336","0",C6 BANK
 "136","0","UNICRED",""
-"84","0","UNIPRIME",""
+"084","0","UNIPRIME",""
 "623","9","BANCO PAN",""
 "707","9","Daycoval",""
 "197","9","STONE",""
